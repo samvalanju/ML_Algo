@@ -1,4 +1,4 @@
-Using the NLP algortihm, Identify major causes for raising claim request with one of the biggest Insurance brand.
+Using the NLP algortihm, identify major causes for raising claim request with one of the biggest Insurance brand.
 
 Step by step approach followed:
 1. Import required libraries
